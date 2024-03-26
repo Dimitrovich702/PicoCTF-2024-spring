@@ -35,7 +35,7 @@ Additional Notes
 
 ## Credits
 
-- Special thanks to Pete from the red team for guiding and solving with his expertise some of reverse engineer challenges
+- Special thanks to Pete from the red team for guiding and solving with his expertise some of reverse engineer & binary exploitation challenges.
 
 ## Next Steps
 
